@@ -1,0 +1,16 @@
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.deps.json
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.dll
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.pdb
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Models.dll
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Models.pdb
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.AssemblyReference.cache
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfoInputs.cache
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfo.cs
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CoreCompileInputs.cache
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CopyComplete
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.dll
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.pdb
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.runtimeconfig.json
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.runtimeconfig.dev.json
+C:\Users\SPOORTHY\source\repos\WebConsume_Investors\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.genruntimeconfig.cache
